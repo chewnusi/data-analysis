@@ -62,4 +62,4 @@ The visualizations show clear patterns and relationships between different level
 
 ## Results
 
-The app is deployed on Streamlit Sharing and can be accessed [here](https://katana-iryna-pwc-assessment.streamlit.app/).
+The app is deployed on Streamlit Sharing and can be accessed [here](https://data-analysis-and-visualisation.streamlit.app/).
