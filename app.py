@@ -257,7 +257,7 @@ def main():
     st.title('Test Assessment - Data Analysis')
     st.write("Me on LinkedIn: [**Katana Iryna**](https://www.linkedin.com/in/iryna-katana/)")
     st.write("Download CV: [**Iryna Katana CV**](https://drive.google.com/file/d/1SeO7HpozvkvORLrDmjNg4P_qBjBZHTgb/view?usp=drive_link)")
-    st.write("This project GitHub: [**github.com/chewnusi/pwc-test-assessment**](https://github.com/chewnusi/pwc-test-assessment)")
+    st.write("This project GitHub: [**github.com/chewnusi/data-analysis**](https://github.com/chewnusi/data-analysis)")
 
     st.write("## Preprocessing Steps")
     st.write("""
